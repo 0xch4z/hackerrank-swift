@@ -15,7 +15,6 @@ for (index, element) in a.enumerated() {
 var aScore = 0
 var bScore = 0
 
-// compare numbers
 func compare(_ anumber: Int, _ bnumber: Int) {
     if anumber > bnumber {
         aScore += 1
@@ -24,8 +23,10 @@ func compare(_ anumber: Int, _ bnumber: Int) {
     }
 }
 
+// Compare number set
 for (anumber, bnumber) in numbers {
     compare(anumber, bnumber)
 }
 
+// Output scores
 print(aScore, bScore)
