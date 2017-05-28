@@ -2,4 +2,4 @@
 ## Table of Algorithms
 | Problem | Solution | Date Submitted |
 | ------- | -------- | -------- |
-| [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks) | [AVeryBigSum.Swift](Equal%20Stacks/EqualStacks.swift) | May 27, 2017 |
+| [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks) | [EqualStacks.swift](Equal%20Stacks/EqualStacks.swift) | May 27, 2017 |
