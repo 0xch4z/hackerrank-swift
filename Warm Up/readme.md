@@ -11,3 +11,4 @@
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | [SimpleArraySum.swift](Simple%20Array%20Sum/SimpleArraySum.swift) | May 27, 2017 |
 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | [SolveMeFirst.swift](Solve%20Me%20First/SolveMeFirst.swift)| May 27, 2017 |
 | [Staircase](https://www.hackerrank.com/challenges/staircase) | [Staircase.swift](Staircase/Staircase.swift) | May 27, 2017 |
+| [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | [TimeConversion.swift](Time%20Conversion/TimeConversion.swift) | May 27, 2017
