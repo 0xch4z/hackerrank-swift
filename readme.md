@@ -2,6 +2,10 @@
 ## Table of Algorithms
 | Subdomain | Progress |
 | --------- | -------- |
-| [Data Structures](/Data%20Structures) | 1/? |
 | [Implementation](/Implementation) | 0/64 |
-| [Warm Up](/Warm%20Up) | 7/10 |
+| [Warm Up](/Warm%20Up) | 8/10 |
+
+## Table of Data Structures
+| Subdomain | Progress |
+| --------- | -------- |
+| [Stacks](/Stacks) | 1/9 |
