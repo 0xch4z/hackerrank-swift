@@ -3,7 +3,7 @@
 | Subdomain | Progress |
 | --------- | -------- |
 | [Implementation](/Implementation) | 0/64 |
-| [Warm Up](/Warm%20Up) | 8/10 |
+| [Warm Up](/Warm%20Up) | 10/10 |
 
 ## Table of Data Structures
 | Subdomain | Progress |
