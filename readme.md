@@ -9,81 +9,81 @@
   </tr>
   <tr>
     <td><a align="center" href="/Algorithms/Warm%20Up">Warm Up</a> (10/10)</td>
-    <td><a align="center" href="">Arrays</a> (0/6)</td>
-    <td><a align="center" href="">Fundamentals</a> (0/31)</td>
-    <td><a align="center" href="">Introduction</a> (0/6)</td>
+    <td>Arrays (0/6)</td>
+    <td>Fundamentals (0/31)</td>
+    <td>Introduction (0/6)</td>
   </tr>
   <tr>
-    <td><a align="center" href="/Algorithms/Implementation">Implementation</a> (0/64)</td>
-    <td><a align="center" href="">Linked Lists</a> (0/45)</td>
-    <td><a align="center" href="">Number Theory</a> (0/73)</td>
-    <td><a align="center" href="">Character Classes</a> (0/3)</td>
+    <td><a align="center" href="/Algorithms/Implementation">Implementation</a> (1/64)</td>
+    <td>Linked Lists (0/45)</td>
+    <td>Number Theory (0/73)</td>
+    <td>Character Classes (0/3)</td>
   </tr>
   <tr>
     <td><a align="center" href="/Algorithms/Strings">Strings</a> (1/45)</td>
-    <td><a align="center" href="">Trees</a> (0/17)</td>
-    <td><a align="center" href="">Combinatorics</a> (0/54)</td>
-    <td><a align="center" href="">Repititions</a> (0/5)</td>
+    <td>Trees (0/17)</td>
+    <td>Combinatorics (0/54)</td>
+    <td>Repititions (0/5)</td>
   </tr>
   <tr>
-    <td><a align="center" href="">Sorting</a> (0/19)</td>
-    <td><a align="center" href="">Balanced Trees</a> (0/3)</td>
-    <td><a align="center" href="">Algebra</a> (0/37)</td>
-    <td><a align="center" href="">Grouping and Capturing</a> (0/3)</td>
+    <td>Sorting (0/19)</td>
+    <td>Balanced Trees (0/3)</td>
+    <td>Algebra (0/37)</td>
+    <td>Grouping and Capturing (0/3)</td>
   </tr>
   <tr>
-    <td><a align="center" href="">Search</a> (0/25)</td>
+    <td>Search (0/25)</td>
     <td><a align="center" href="/Data%20Structures/Stacks">Stacks</a> (1/9)</td>
-    <td><a align="center" href="">Geometry</a> (0/30)</td>
-    <td><a align="center" href="">Back References</a> (0/4)</td>
+    <td>Geometry (0/30)</td>
+    <td>Back References (0/4)</td>
   </tr>
   <tr>
-    <td><a align="center" href="">Graph Theory</a> (0/62)</td>
-    <td><a align="center" href="">Queues</a> (0/5)</td>
-    <td><a align="center" href="">Probability</a> (0/28)</td>
-    <td><a align="center" href="">Assertions</a> (0/4)</td>
+    <td>Graph Theory (0/62)</td>
+    <td>Queues (0/5)</td>
+    <td>Probability (0/28)</td>
+    <td>Assertions (0/4)</td>
   </tr>
   <tr>
-    <td><a align="center" href="">Greedy</a> (0/23)</td>
-    <td><a align="center" href="">Heap</a> (0/4)</td>
-    <td><a align="center" href="">Linear Algebra</a> (0/28)</td>
-    <td><a align="center" href="">Applications</a> (0/23)</td>
+    <td>Greedy (0/23)</td>
+    <td>Heap (0/4)</td>
+    <td>Linear Algebra (0/28)</td>
+    <td>Applications (0/23)</td>
   </tr>
   <tr>
-    <td><a align="center" href="">Dynamic Programming</a> (0/97)</td>
-    <td><a align="center" href="">Disjoint Set</a> (0/4)</td>
-    <td><a align="center" href=""></a></td>
-    <td><a align="center" href=""></a></td>
+    <td>Dynamic Programming (0/97)</td>
+    <td>Disjoint Set (0/4)</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td><a align="center" href="">Constructive Algorithms</a> (0/21)</td>
-    <td><a align="center" href="">Multiple Choice</a> (0/3)</td>
-    <td><a align="center" href=""></a></td>
-    <td><a align="center" href=""></a></td>
+    <td>Constructive Algorithms (0/21)</td>
+    <td>Multiple Choice (0/3)</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td><a align="center" href="">Bit Manipulation</a> (0/26)</td>
-    <td><a align="center" href="">Trie</a> (0/2)</td>
-    <td><a align="center" href=""></a></td>
-    <td><a align="center" href=""></a></td>
+    <td>Bit Manipulation (0/26)</td>
+    <td>Trie (0/2)</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td><a align="center" href="">Recursion</a> (0/21)</td>
-    <td><a align="center" href="">Advanced</a> (0/48)</td>
-    <td><a align="center" href=""></a></td>
-    <td><a align="center" href=""></a></td>
+    <td>Recursion (0/21)</td>
+    <td>Advanced (0/48)</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td><a align="center" href="">Game Theory</a> (0/42)</td>
-    <td><a align="center" href=""></a></td>
-    <td><a align="center" href=""></a></td>
-    <td><a align="center" href=""></a></td>
+    <td>Game Theory (0/42)</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td><a align="center" href="">NP Complete</a> (0/4)</td>
-    <td><a align="center" href=""></a></td>
-    <td><a align="center" href=""></a></td>
-    <td><a align="center" href=""></a></td>
+    <td>NP Complete (0/4)</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 <p align="center">*only populated subdomains are linked...*</p>

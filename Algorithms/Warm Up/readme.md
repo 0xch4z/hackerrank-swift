@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><a align="center" href="https://www.hackerrank.com/challenges/a-very-big-sum">A Very Big Sum</a></td>
-    <td><a align="center" href="A%20Very%20Big%20Sum/AveryBigSum.swift">AVeryBigSum.swift</a></td>
+    <td><a align="center" href="A%20Very%20Big%20Sum/AVeryBigSum.swift">AVeryBigSum.swift</a></td>
     <td><a align="center" href="">Readme.md</a></td>
     <td>Easy</td>
     <td>May 28, 2017</td>
