@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><a align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Equal Stacks</a></td>
-    <td><a align="center" href="equal%20stack/equalstacks.swift">EqualStacks.swift</a></td>
+    <td><a align="center" href="/equal%20stack/equalstacks.swift">EqualStacks.swift</a></td>
     <td><a align="center" href="">Readme.md</a></td>
     <td>Easy</td>
     <td>May 28, 2017</td>
