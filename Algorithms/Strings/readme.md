@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><a align="center" href="https://www.hackerrank.com/challenges/camelcase">Camelcase</a></td>
-    <td><a align="center" href="camelcase/camelcase.swift">Camelcase.swift</a></td>
+    <td><a align="center" href="Camelcase/Camelcase.swift">Camelcase.swift</a></td>
     <td><a align="center" href="">Readme.md</a></td>
     <td>Easy</td>
     <td>May 28, 2017</td>

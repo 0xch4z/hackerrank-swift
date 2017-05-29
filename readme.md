@@ -8,19 +8,19 @@
     <th><p align="center">Regex</p></th>
   </tr>
   <tr>
-    <td><a align="center" href="/algorithms/warm%20up">Warm Up</a> (10/10)</td>
+    <td><a align="center" href="/Algorithms/Warm%20Up">Warm Up</a> (10/10)</td>
     <td><a align="center" href="">Arrays</a> (0/6)</td>
     <td><a align="center" href="">Fundamentals</a> (0/31)</td>
     <td><a align="center" href="">Introduction</a> (0/6)</td>
   </tr>
   <tr>
-    <td><a align="center" href="/algorithms/implementation">Implementation</a> (0/64)</td>
+    <td><a align="center" href="/Algorithms/Implementation">Implementation</a> (0/64)</td>
     <td><a align="center" href="">Linked Lists</a> (0/45)</td>
     <td><a align="center" href="">Number Theory</a> (0/73)</td>
     <td><a align="center" href="">Character Classes</a> (0/3)</td>
   </tr>
   <tr>
-    <td><a align="center" href="/algorithms/strings">Strings</a> (1/45)</td>
+    <td><a align="center" href="/Algorithms/Strings">Strings</a> (1/45)</td>
     <td><a align="center" href="">Trees</a> (0/17)</td>
     <td><a align="center" href="">Combinatorics</a> (0/54)</td>
     <td><a align="center" href="">Repititions</a> (0/5)</td>
@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td><a align="center" href="">Search</a> (0/25)</td>
-    <td><a align="center" href="/data%20structures/stacks">Stacks</a> (1/9)</td>
+    <td><a align="center" href="/Data%20Structures/Stacks">Stacks</a> (1/9)</td>
     <td><a align="center" href="">Geometry</a> (0/30)</td>
     <td><a align="center" href="">Back References</a> (0/4)</td>
   </tr>
