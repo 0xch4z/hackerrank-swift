@@ -9,6 +9,13 @@
     <th><p align="center">Date Submitted</p></th>
   </tr>
   <tr>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/apple-and-orange">Apple and Orange</a></td>
+    <td><a align="center" href="Apple%20and%20Orange/AppleAndOrange.swift">AppleAndOrange.swift</a></td>
+    <td><a align="center" href="">Readme.md</a></td>
+    <td>Easy</td>
+    <td>May 28, 2017</td>
+  </tr>
+  <tr>
     <td><a align="center" href="https://www.hackerrank.com/challenges/grading">Grading Students</a></td>
     <td><a align="center" href="Grading%20Students/GradingStudents.swift">GradingStudents.swift</a></td>
     <td><a align="center" href="">Readme.md</a></td>
