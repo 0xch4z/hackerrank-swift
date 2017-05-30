@@ -20,7 +20,7 @@
     <td>Character Classes (0/3)</td>
   </tr>
   <tr>
-    <td><a align="center" href="/Algorithms/Strings">Strings</a> (1/45)</td>
+    <td><a align="center" href="/Algorithms/Strings">Strings</a> (2/45)</td>
     <td>Trees (0/17)</td>
     <td>Combinatorics (0/54)</td>
     <td>Repititions (0/5)</td>

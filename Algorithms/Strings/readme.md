@@ -15,4 +15,11 @@
     <td>Easy</td>
     <td>May 28, 2017</td>
   </tr>
+  <tr>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/hackerrank-in-a-string">HackerRank in a String</a></td>
+    <td><a align="center" href="HackerRank%20in%20a%20String/HackerRankInAString.swift">HackerRankInAString.swift</a></td>
+    <td><a align="center" href="">Readme.md</a></td>
+    <td>Easy</td>
+    <td>May 30, 2017</td>
+  </tr>
 </table>
