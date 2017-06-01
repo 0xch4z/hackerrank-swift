@@ -1,4 +1,4 @@
-<h1 align="center">My Solutions to <a href="https://www.hackerrank.com/dashboard">HackerRank</a> Problems in Swift :thumbsup:</h1>
+<h1 align="center">My Solutions to <a href="https://www.hackerrank.com/dashboard">HackerRank</a> Problems in Swift</h1>
 <h2 align="center">Table of Contents</h2>
 <table style="width:100%">
   <tr>
