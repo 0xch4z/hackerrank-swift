@@ -16,6 +16,13 @@
     <td>May 28, 2017</td>
   </tr>
   <tr>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/bon-appetit">Bon Appétit</a></td>
+    <td><a align="center" href="BonAppetit.swift">BonAppetit.swift</a></td>
+    <td><a align="center" href="">Readme.md</a></td>
+    <td>Easy</td>
+    <td>Jun 1, 2017</td>
+  </tr>
+  <tr>
     <td><a align="center" href="https://www.hackerrank.com/challenges/divisible-sum-pairs">Dibisible Sum Pairs</a></td>
     <td><a align="center" href="Divisible%20Sum%20Pairs/DivisibleSumPairs.swift">DivisibleSumPairs.swift</a></td>
     <td><a align="center" href="">Readme.md</a></td>
