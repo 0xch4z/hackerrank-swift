@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td><a align="center" href="https://www.hackerrank.com/challenges/bon-appetit">Bon Appétit</a></td>
-    <td><a align="center" href="BonAppetit.swift">BonAppetit.swift</a></td>
+    <td><a align="center" href="Bon%20Appetit/BonAppetit.swift">BonAppetit.swift</a></td>
     <td><a align="center" href="">Readme.md</a></td>
     <td>Easy</td>
     <td>Jun 1, 2017</td>
