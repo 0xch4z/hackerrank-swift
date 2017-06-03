@@ -1,4 +1,4 @@
-<h1 align="center">Warm Up Algorithm Solutions :pencil:</h1>
+<h1 align="center">String Algorithm Solutions :pencil:</h1>
 <h2 align="center">Table of Algorithms</h2>
 <table style="width:100%">
   <tr>
