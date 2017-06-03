@@ -45,19 +45,17 @@ evaluation: for (index, char) in chars.enumerated() {
         // frequency is correct
             break
         case freq + 1:
+		// frequency is over by one
             exceptionMade = true
             break
-        // frequency is over by one
+	    case 1:
+		// one odd out character
+		    exceptionMade = true
+			break
         default:
-            if cFreq == 1 {
-            // one odd out character
-                exceptionMade = true
-                break
-            } else {
-            // frequency is incorrect
-                print("NO")
-                break evaluation
-            }
+        // frequency is incorrect
+        	print("NO")
+        	break evaluation
         }
     } else if (exceptionMade) {
         switch(cFreq) {
