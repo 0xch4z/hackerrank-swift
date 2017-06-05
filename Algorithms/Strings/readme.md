@@ -34,7 +34,7 @@
     <td><a align="center" href="Mars%20Exploration/MarsExploration.swift">MarsExploration.swift</a></td>
     <td><a align="center" href="">Readme.md</a></td>
     <td>Easy</td>
-    <td>June 2, 2017</td>
+    <td>June 3, 2017</td>
   </tr>
   <tr>
     <td><a align="center" href="https://www.hackerrank.com/challenges/sherlock-and-the-valid-string">Sherlock and the Valid String</a></td>
