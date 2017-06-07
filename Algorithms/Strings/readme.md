@@ -37,6 +37,13 @@
     <td>June 3, 2017</td>
   </tr>
   <tr>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/pangrams">Pangrams</a></td>
+    <td><a align="center" href="Pangrams/Pangrams.swift">Pangrams.swift</a></td>
+    <td><a align="center" href="">Readme.md</a></td>
+    <td>Easy</td>
+    <td>June 7, 2017</td>
+  </tr>
+  <tr>
     <td><a align="center" href="https://www.hackerrank.com/challenges/sherlock-and-the-valid-string">Sherlock and the Valid String</a></td>
     <td><a align="center" href="Sherlock%20and%20the%Valid%20Strings/SherlockAndTheValidString.swift">SherlockAndTheValidString.swift</a></td>
     <td><a align="center" href="">Readme.md</a></td>
