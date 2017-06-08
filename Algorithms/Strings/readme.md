@@ -30,6 +30,13 @@
     <td>May 31, 2017</td>
   </tr>
   <tr>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/love-letter-string">Love Letter String</a></td>
+    <td><a align="center" href="Love%20Letter%20String/LoveLetterString.swift">LoveLetterString.swift</a></td>
+    <td><a align="center" href="">Readme.md</a></td>
+    <td>Easy</td>
+    <td>June 8, 2017</td>
+  </tr>
+  <tr>
     <td><a align="center" href="https://www.hackerrank.com/challenges/mars-exploration">Mars Exploration</a></td>
     <td><a align="center" href="Mars%20Exploration/MarsExploration.swift">MarsExploration.swift</a></td>
     <td><a align="center" href="">Readme.md</a></td>
