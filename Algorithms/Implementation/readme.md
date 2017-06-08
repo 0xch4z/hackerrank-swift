@@ -23,6 +23,13 @@
     <td>Jun 1, 2017</td>
   </tr>
   <tr>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/breaking-the-records">Breaking the Records</a></td>
+    <td><a align="center" href="Breaking%20the%20Records/BreakingTheRecords.swift">BreakingTheRecords.swift</a></td>
+    <td><a align="center" href="">Readme.md</a></td>
+    <td>Easy</td>
+    <td>June 8, 2017</td>
+  </tr>
+  <tr>
     <td><a align="center" href="https://www.hackerrank.com/challenges/divisible-sum-pairs">Dibisible Sum Pairs</a></td>
     <td><a align="center" href="Divisible%20Sum%20Pairs/DivisibleSumPairs.swift">DivisibleSumPairs.swift</a></td>
     <td><a align="center" href="">Readme.md</a></td>
