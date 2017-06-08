@@ -2,31 +2,31 @@ let s = readLine()! // s = given string
 
 fileprivate extension String {
 
-	// MARK: Occurances Method | ⇒ O(n)
-	// Returns indicies of a given character (c)
-	func occurances(_ c: Character) -> Int {
-		var count = 0
-		let chars = Array(self.characters)
-		for char in chars {
-			if char == c {
-				count += 1
-			}
-		}
-		return count
-	}
+    // MARK: Occurances Method | ⇒ O(n)
+    // Returns indicies of a given character (c)
+    func occurances(_ c: Character) -> Int {
+        var count = 0
+        let chars = Array(self.characters)
+        for char in chars {
+            if char == c {
+                count += 1
+            }
+        }
+        return count
+    }
 
-	// MARK: Unique Chars Property | ⇒ O(n)
-	// Returns unique characters in a given string
-	var uniqueCharacters: [Character] {
-		var uniqueChars = [Character]()
-		let chars = Array(self.characters)
-		for char in chars {
-			if !uniqueChars.contains(char) {
-			    uniqueChars.append(char)
-			}
-		}
-		return uniqueChars
-	}
+    // MARK: Unique Chars Property | ⇒ O(n)
+    // Returns unique characters in a given string
+    var uniqueCharacters: [Character] {
+        var uniqueChars = [Character]()
+        let chars = Array(self.characters)
+        for char in chars {
+            if !uniqueChars.contains(char) {
+                uniqueChars.append(char)
+            }
+        }
+        return uniqueChars
+    }
 }
 
 // exceptionMade serve a purpose in the monitoring of times frequency found invalid (limit 1)
@@ -42,34 +42,34 @@ evaluation: for (index, char) in chars.enumerated() {
     if !(exceptionMade) {
         switch(cFreq) {
         case freq:
-        // frequency is correct
+            // frequency is correct
             break
         case freq + 1:
-	    	// frequency is over by one
+            // frequency is over by one
             exceptionMade = true
             break
-	      case 1:
-		    // one odd out character
-		        exceptionMade = true
-			      break
+        case 1:
+            // one odd out character
+            exceptionMade = true
+            break
         default:
-        // frequency is incorrect
-        	  print("NO")
-        	  break evaluation
+            // frequency is incorrect
+            print("NO")
+            break evaluation
         }
     } else if (exceptionMade) {
         switch(cFreq) {
         case freq:
-        // frequency is correct
+            // frequency is correct
             break
         default:
-        // frequency is incorrect
+            // frequency is incorrect
             print("NO")
             break evaluation
         }
     }
     if (index == chars.count - 1) {
-    // frequency was correct, last char in loop
+        // frequency was correct, last char in loop
         print("YES")
     }
 }
