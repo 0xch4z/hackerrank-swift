@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td><a align="center" href="https://www.hackerrank.com/challenges/sherlock-and-the-valid-string">Sherlock and the Valid String</a></td>
-    <td><a align="center" href="Sherlock%20and%20the%Valid%20Strings/SherlockAndTheValidString.swift">SherlockAndTheValidString.swift</a></td>
+    <td><a align="center" href="Sherlock%20and%20the%Valid%20String/SherlockAndTheValidString.swift">SherlockAndTheValidString.swift</a></td>
     <td><a align="center" href="">Readme.md</a></td>
     <td>Medium</td>
     <td>June 1, 2017</td>

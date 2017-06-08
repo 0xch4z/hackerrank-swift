@@ -45,15 +45,15 @@ evaluation: for (index, char) in chars.enumerated() {
         // frequency is correct
             break
         case freq + 1:
-		// frequency is over by one
+	    	// frequency is over by one
             exceptionMade = true
             break
 	    case 1:
-		// one odd out character
+		  // one odd out character
 		    exceptionMade = true
 			break
-        default:
-        // frequency is incorrect
+      default:
+      // frequency is incorrect
         	print("NO")
         	break evaluation
         }
