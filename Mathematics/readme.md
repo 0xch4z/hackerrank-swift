@@ -5,7 +5,7 @@
     <td><a align="center" href="https://www.hackerrank.com/domains/mathematics">Click here to go to Hackerrank - Mathematics</a></t>
   </tr>
   <tr>
-    <td><a align="center" href="/Fundamentals">Fundamentals</a></t>
+    <td><a align="center" href="master/Mathematics/Fundamentals">Fundamentals</a></t>
   </tr>
    <tr>
     <td><a align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Number Theory </a></th>
