@@ -3,7 +3,7 @@
 <Center><table style="width:200%">
   
   <tr>
-    <td><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Fundamentals</p></t>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Fundamentals</p></t>
   </tr>
    <tr>
     <td><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Number Theory </p></th>
