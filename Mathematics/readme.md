@@ -8,22 +8,22 @@
     <td><a align="center" href="Fundamentals">Fundamentals</a></t>
   </tr>
    <tr>
-    <td><a align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Number Theory </a></th>
+    <td><a align="center" href="Number%20Theory">Number Theory </a></th>
   </tr>
   <tr>
-    <th><a align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Combinatorics</a></th>
+    <th><a align="center" href="Combinatorics">Combinatorics</a></th>
   </tr>
   <tr>
-    <th><a align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Algebra</a></th>
+    <th><a align="center" href="Algebra">Algebra</a></th>
   </tr>
   <tr>
-    <th><a align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Geometry</a></th>
+    <th><a align="center" href="Geometry">Geometry</a></th>
   </tr>
   <tr>
-    <th><a align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Probability</a></th>
+    <th><a align="center" href="Probability">Probability</a></th>
   </tr>
   <tr>
-    <th><a align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Linear Algebra</a></th>
+    <th><a align="center" href="Linear%20Algebra">Linear Algebra</a></th>
   </tr>
  
 </table>
