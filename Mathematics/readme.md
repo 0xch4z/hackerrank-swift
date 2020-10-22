@@ -3,25 +3,25 @@
 <Center><table style="width:200%">
   
   <tr>
-    <th><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Fundamentals</p></th>
+    <td><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Fundamentals</p></t>
   </tr>
    <tr>
-    <th><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Number Theory </p></th>
-  </tr> 
-  <tr>
-    <th><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Combinatorics</p></th>
+    <td><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Number Theory </p></td>
   </tr>
   <tr>
-    <th><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Algebra</p></th>
+    <td><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Combinatorics</p></td>
   </tr>
   <tr>
-    <th><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Geometry</p></th>
+    <td><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Algebra</p></td>
   </tr>
   <tr>
-    <th><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Probability</p></th>
+    <td><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Geometry</p></td>
   </tr>
   <tr>
-    <th><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Linear Algebra</p></th>
+    <td><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Probability</p></td>
+  </tr>
+  <tr>
+    <td><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Linear Algebra</p></td>
   </tr>
  
 </table>
