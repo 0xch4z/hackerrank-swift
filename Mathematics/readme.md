@@ -1,16 +1,28 @@
 <h1 align="center">Hackerrank - Mathematics:</h1>
 <h2 align="center">Table of Contents</h2>
-<Center>
-     <h2><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Fundamentals</p></h2>
-     <h2><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Number Theory </p></h2>
-     <h2><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Combinatorics</p></h2>
- 
-   <h2><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Algebra</p></h2>
+<Center><table style="width:200%">
   
-  <h2><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Geometry</p></h2>
-  
-  <h2><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Probability</p></h2>
+  <tr>
+    <td><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Fundamentals</p></t>
+  </tr>
+   <tr>
+    <td><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Number Theory </p></th>
+  </tr>
+  <tr>
+    <th><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Combinatorics</p></th>
+  </tr>
+  <tr>
+    <th><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Algebra</p></th>
+  </tr>
+  <tr>
+    <th><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Geometry</p></th>
+  </tr>
+  <tr>
+    <th><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Probability</p></th>
+  </tr>
+  <tr>
+    <th><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Linear Algebra</p></th>
+  </tr>
  
-   <h2><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Linear Algebra</p></h2>
- 
- </Center>
+</table>
+</Center>
