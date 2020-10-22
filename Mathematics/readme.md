@@ -1,14 +1,14 @@
 <h1 align="center">Hackerrank - Mathematics:</h1>
 <h2 align="center">Table of Contents</h2>
-<Center><table style="width:200%">
+<Center><table style="width:100%">
    <tr>
-    <td><a align="center" href="https://www.hackerrank.com/domains/mathematics">Click here to go to Hackerrank - Mathematics</a></t>
+    <th><a align="center" href="https://www.hackerrank.com/domains/mathematics">Click here to go to Hackerrank - Mathematics</a></th>
   </tr>
   <tr>
-    <td><a align="center" href="Fundamentals">Fundamentals</a></t>
+    <th><a align="center" href="Fundamentals">Fundamentals</a></th>
   </tr>
    <tr>
-    <td><a align="center" href="Number%20Theory">Number Theory </a></th>
+    <th><a align="center" href="Number%20Theory">Number Theory </a></th>
   </tr>
   <tr>
     <th><a align="center" href="Combinatorics">Combinatorics</a></th>
