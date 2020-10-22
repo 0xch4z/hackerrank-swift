@@ -1,6 +1,7 @@
 <h1 align="center">Hackerrank - Mathematics:</h1>
 <h2 align="center">Table of Contents</h2>
-<table style="width:100%">
+<Center><table style="width:100%">
+  
   <tr>
     <th><p align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Fundamentals</p></th>
   </tr>
@@ -24,3 +25,4 @@
   </tr>
  
 </table>
+</Center>
