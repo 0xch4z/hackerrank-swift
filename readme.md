@@ -14,7 +14,7 @@
     <td>Introduction (0/6)</td>
   </tr>
   <tr>
-    <td><a align="center" href="/Algorithms/Implementation">Implementation</a> (5/64)</td>
+    <td><a align="center" href="/Algorithms/Implementation">Implementation</a> (6/65)</td>
     <td>Linked Lists (0/45)</td>
     <td>Number Theory (0/73)</td>
     <td>Character Classes (0/3)</td>
