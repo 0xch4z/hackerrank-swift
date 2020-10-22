@@ -12,7 +12,7 @@
     <td><a align="center" href="https://www.hackerrank.com/challenges/die-hard-3/">Die Hard 3</a></td>
     <td><a align="center" href="Die%20hard%203/DieHard3.swift">DieHard3.swift</a></td>
     <td><a align="center" href="">Readme.md</a></td>
-    <td>Easy</td>
+    <td>Medium</td>
     <td>22 Oct 2020</td>
   </tr>
 </table>
