@@ -1,6 +1,6 @@
 <h1 align="center">Hackerrank - Mathematics:</h1>
 <h2 align="center">Table of Contents</h2>
-<p align=center><table style="width:100%">
+<p align=center><table style="width:100%" padding = 200px>
    <tr>
     <th align="center"><a  href="https://www.hackerrank.com/domains/mathematics">Click here to go to Hackerrank - Mathematics</a></th>
   </tr>
