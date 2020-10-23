@@ -1,6 +1,6 @@
 <h1 align="center">Hackerrank - Mathematics:</h1>
 <h2 align="center">Table of Contents</h2>
-<Center><table style="width:100%">
+<p align=center><table style="width:100%">
    <tr>
     <th><a align="center" href="https://www.hackerrank.com/domains/mathematics">Click here to go to Hackerrank - Mathematics</a></th>
   </tr>
@@ -26,5 +26,5 @@
     <th><a align="center" href="Linear%20Algebra">Linear Algebra</a></th>
   </tr>
  
-</table>
+</table> </p>
 </Center>
