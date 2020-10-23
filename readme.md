@@ -10,13 +10,13 @@
   <tr>
     <td><a align="center" href="/Algorithms/Warm%20Up">Warm Up</a> (10/10)</td>
     <td><a align="center" href="/Data%20Structures/Arrays">Arrays</a> (1/6)</td>
-    <td><a align="center" href="/Mathematics/Fundamentals">Fundamentals (1/31)</a></td>
+    <td><a align="center" href="/Mathematics/Fundamentals">Fundamentals </a>(1/31) </td>
     <td>Introduction (0/6)</td>
   </tr>
   <tr>
     <td><a align="center" href="/Algorithms/Implementation">Implementation</a> (6/65)</td>
     <td>Linked Lists (0/45)</td>
-    <td><a align="center" href="/Mathematics/Number%20Theory">Number Theory (1/73)</a></td>
+    <td><a align="center" href="/Mathematics/Number%20Theory">Number Theory</a>(1/73)</td>
     <td>Character Classes (0/3)</td>
   </tr>
   <tr>
