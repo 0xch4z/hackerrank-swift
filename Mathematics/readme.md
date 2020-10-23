@@ -2,28 +2,28 @@
 <h2 align="center">Table of Contents</h2>
 <p align=center><table style="width:100%">
    <tr>
-    <th><a align="center" href="https://www.hackerrank.com/domains/mathematics">Click here to go to Hackerrank - Mathematics</a></th>
+    <th align="center"><a  href="https://www.hackerrank.com/domains/mathematics">Click here to go to Hackerrank - Mathematics</a></th>
   </tr>
   <tr>
-    <th><a align="center" href="Fundamentals">Fundamentals</a></th>
+    <th align="center"><a align="center" href="Fundamentals">Fundamentals</a></th>
   </tr>
    <tr>
-    <th><a align="center" href="Number%20Theory">Number Theory </a></th>
+    <th align="center"><a align="center" href="Number%20Theory">Number Theory </a></th>
   </tr>
   <tr>
-    <th><a align="center" href="Combinatorics">Combinatorics</a></th>
+    <th align="center"><a align="center" href="Combinatorics">Combinatorics</a></th>
+  </tr>
+  <tr >
+    <th align="center"><a align="center" href="Algebra">Algebra</a></th>
   </tr>
   <tr>
-    <th><a align="center" href="Algebra">Algebra</a></th>
+    <th align="center"><a align="center" href="Geometry">Geometry</a></th>
   </tr>
   <tr>
-    <th><a align="center" href="Geometry">Geometry</a></th>
+    <th align="center"><a align="center" href="Probability">Probability</a></th>
   </tr>
   <tr>
-    <th><a align="center" href="Probability">Probability</a></th>
-  </tr>
-  <tr>
-    <th><a align="center" href="Linear%20Algebra">Linear Algebra</a></th>
+    <th align="center"><a align="center" href="Linear%20Algebra">Linear Algebra</a></th>
   </tr>
  
 </table> </p>
