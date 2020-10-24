@@ -11,7 +11,7 @@
     <th align="center"><a align="center" href="Number%20Theory">Number Theory </a></th>
   </tr>
   <tr>
-    <th align="center"><a align="center" href="Combinatorics">Combinatorics</a></th>
+    <th align="center"><a align="center" href="Combinatronics">Combinatorics</a></th>
   </tr>
   <tr >
     <th align="center"><a align="center" href="Algebra">Algebra</a></th>
