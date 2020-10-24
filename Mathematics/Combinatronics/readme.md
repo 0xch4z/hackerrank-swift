@@ -1,5 +1,5 @@
-<h1 align="center">Stack Data Structure Solutions :bar_chart:</h1>
-<h2 align="center">Table of Algorithms</h2>
+<h1 align="center">Combinatronics Solutions :bar_chart:</h1>
+<h2 align="center">Table of Solutions</h2>
 <table style="width:100%">
   <tr>
     <th><p align="center">Problem</p></th>
