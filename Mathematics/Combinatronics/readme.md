@@ -9,10 +9,10 @@
     <th><p align="center">Date Submitted</p></th>
   </tr>
   <tr>
-    <td><a align="center" href="https://www.hackerrank.com/challenges/equal-stacks">Equal Stacks</a></td>
-    <td><a align="center" href="Equal%20Stacks/EqualStacks.swift">EqualStacks.swift</a></td>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/a-chocolate-fiesta/">A Chocolate Fiesta</a></td>
+    <td><a align="center" href="A%20Chocolate%20Fiesta/aChocolateFiesta.swift">aChocolateFiesta.swift</a></td>
     <td><a align="center" href="">Readme.md</a></td>
     <td>Easy</td>
-    <td>May 28, 2017</td>
+    <td>Oct 24, 2020</td>
   </tr>
 </table>
