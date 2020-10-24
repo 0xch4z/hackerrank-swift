@@ -22,7 +22,7 @@
   <tr>
     <td><a align="center" href="/Algorithms/Strings">Strings</a> (7/45)</td>
     <td>Trees (0/17)</td>
-    <td>Combinatorics (0/54)</td>
+    <td><a align="center" href="/Mathematics/Combinatronics">Combinatorics </a>(1/54)</td>
     <td>Repititions (0/5)</td>
   </tr>
   <tr>
