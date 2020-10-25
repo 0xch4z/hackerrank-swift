@@ -28,25 +28,25 @@
   <tr>
     <td>Sorting (0/19)</td>
     <td>Balanced Trees (0/3)</td>
-    <td><a align="center" href="/Mathematics/Algebra">Algebra</a> (0/37)</td>
+    <td><a align="center" href="/Mathematics/Algebra">Algebra</a> (1/37)</td>
     <td>Grouping and Capturing (0/3)</td>
   </tr>
   <tr>
     <td>Search (0/25)</td>
     <td><a align="center" href="/Data%20Structures/Stacks">Stacks</a> (1/9)</td>
-    <td><a align="center" href="/Mathematics/Geometry">Geometry</a>(0/30)</td>
+    <td><a align="center" href="/Mathematics/Geometry">Geometry</a>(1/30)</td>
     <td>Back References (0/4)</td>
   </tr>
   <tr>
     <td>Graph Theory (0/62)</td>
     <td>Queues (0/5)</td>
-    <td><a align="center" href="/Mathematics/Probability">Probability </a>(0/28)</td>
+    <td><a align="center" href="/Mathematics/Probability">Probability </a>(1/28)</td>
     <td>Assertions (0/4)</td>
   </tr>
   <tr>
     <td>Greedy (0/23)</td>
     <td>Heap (0/4)</td>
-    <td><a align="center" href="/Mathematics/Linear%20Algebra">Linear Algebra </a>(0/28)</td>
+    <td><a align="center" href="/Mathematics/Linear%20Algebra">Linear Algebra </a>(1/28)</td>
     <td>Applications (0/23)</td>
   </tr>
   <tr>
