@@ -8,7 +8,7 @@
     <th><p align="center">Date Submitted</p></th>
   </tr>
   <tr>
-    <td><a align="center" href="https://www.hackerrank.com/challenges/points-on-a-line">Equal Stacks</a></td>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/points-on-a-line">Points On A Line</a></td>
     <td><a align="center" href="Points%20On%20A%20Line/PointsOnALine.swift">PointsOnALine.swift</a></td>
     <td>Easy</td>
     <td>Oct 25, 2020</td>
