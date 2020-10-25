@@ -10,7 +10,7 @@
   <tr>
     <td><a align="center" href="/Algorithms/Warm%20Up">Warm Up</a> (10/10)</td>
     <td><a align="center" href="/Data%20Structures/Arrays">Arrays</a> (1/6)</td>
-    <td><a align="center" href="/Mathematics/Fundamentals">Fundamentals </a>(1/31) </td>
+    <td><a align="center" href="/Mathematics/Fundamentals">Fundamentals </a>(2/31) </td>
     <td>Introduction (0/6)</td>
   </tr>
   <tr>
