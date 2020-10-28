@@ -32,7 +32,7 @@
     <td>Grouping and Capturing (0/3)</td>
   </tr>
   <tr>
-    <td>Search (0/25)</td>
+    <td><a align="center" href="/Algorithms/Search">Search </a>(1/25)</td>
     <td><a align="center" href="/Data%20Structures/Stacks">Stacks</a> (1/9)</td>
     <td><a align="center" href="/Mathematics/Geometry">Geometry</a>(1/30)</td>
     <td>Back References (0/4)</td>
