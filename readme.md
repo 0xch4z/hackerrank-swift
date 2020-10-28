@@ -62,7 +62,7 @@
     <td></td>
   </tr>
   <tr>
-    <td><a align="center" href="/Algorithms/Bit%20Manipulation/">Bit Manipulation</a> (1/26)</td>
+    <td><a align="center" href="/Algorithms/Bit%20Manipulation/">Bit Manipulation</a> (2/26)</td>
     <td>Trie (0/2)</td>
     <td></td>
     <td></td>
