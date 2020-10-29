@@ -88,3 +88,9 @@
 </table>
 <p align="center">*only populated subdomains are linked...*</p>
 <br>
+<h3> Some extra types of problems and their solutions:(click to go )</h3>
+
+|[10 Days of Statistics](/Ten%20Days%20Of%20Statistics)|  |
+|--|--|
+|  |  |
+
