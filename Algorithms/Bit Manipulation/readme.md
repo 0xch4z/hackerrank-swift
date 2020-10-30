@@ -19,4 +19,10 @@
     <td>Easy</td>
     <td>Oct 28, 2020</td>
   </tr>
+  <tr>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/flipping-bits">Flipping Bits</a></td>
+    <td><a align="center" href="Flipping%20Bits/FlippingBits.swift">FlippingBits.swift</a></td>
+    <td>Easy</td>
+    <td>Oct 30, 2020</td>
+  </tr>
 </table>
