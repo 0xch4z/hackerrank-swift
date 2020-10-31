@@ -25,4 +25,10 @@
     <td>Easy</td>
     <td>Oct 30, 2020</td>
   </tr>
+  <tr>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/counter-game">Counter Game</a></td>
+    <td><a align="center" href="Counter%20Game/CounterGame.swift">CounterGame.swift</a></td>
+    <td>Easy</td>
+    <td>Oct 31, 2020</td>
+  </tr>
 </table>
