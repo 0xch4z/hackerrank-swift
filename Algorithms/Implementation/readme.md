@@ -43,4 +43,34 @@
     <td>Hard</td>
     <td>Nov 3, 2020</td>
   </tr>
+  <tr>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/kangaroo/problem">Number Line Jumps</a></td>
+    <td><a align="center" href="Number%20Line%20Jumps/NumberLineJumps.swift">NumberLineJumps.swift</a></td>
+    <td>Easy</td>
+    <td>Nov 4, 2020</td>
+  </tr>
+  <tr>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/between-two-sets/">Between Two Sets</a></td>
+    <td><a align="center" href="Between%20Two%20Sets/BetweenTwoSets.swift">BetweenTwoSets.swift</a></td>
+    <td>Easy</td>
+    <td>Nov 4, 2020</td>
+  </tr>
+  <tr>
+     <td><a align="center" href="https://www.hackerrank.com/challenges/the-birthday-bar">Sub Array Division</a></td>
+     <td><a align="center" href="Sub%20Array%20Division/SubArrayDivision.swift">SubArrayDivision.swift</a></td>
+     <td>Easy</td>
+     <td>Nov 4, 2020</td>
+   </tr>
+   <tr>
+      <td><a align="center" href="https://www.hackerrank.com/challenges/migratory-birds/">Migratory Birds</a></td>
+      <td><a align="center" href="Migratory%20Birds/MigratoryBirds.swift">MigratoryBirds.swift</a></td>
+      <td>Easy</td>
+      <td>Nov 4, 2020</td>
+    </tr>
+    <tr>
+         <td><a align="center" href="https://www.hackerrank.com/challenges/day-of-the-programmer/">DayOfTheProgrammer</a></td>
+         <td><a align="center" href="Day%20Of%20The%20Programmer/DayOfTheProgrammer.swift">DayOfTheProgrammer.swift</a></td>
+         <td>Easy</td>
+         <td>Nov 4, 2020</td>
+       </tr>
 </table>
