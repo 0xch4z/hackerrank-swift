@@ -31,4 +31,16 @@
     <td>Easy</td>
     <td>Oct 31, 2020</td>
   </tr>
+  <tr>
+     <td><a align="center" href="https://www.hackerrank.com/challenges/sum-vs-xor/">Sum Vs Xor</a></td>
+     <td><a align="center" href="Sum%20Vs%20Xor/SumVsXor.swift">SumVsXor.swift</a></td>
+     <td>Easy</td>
+     <td>Nov 4, 2020</td>
+   </tr>
+   <tr>
+      <td><a align="center" href="https://www.hackerrank.com/challenges/the-great-xor">The Great XOR</a></td>
+      <td><a align="center" href="The%20Great%20XOR/TheGreatXOR.swift">TheGreatXOR.swift</a></td>
+      <td>Medium</td>
+      <td>Nov 4, 2020</td>
+    </tr>
 </table>
