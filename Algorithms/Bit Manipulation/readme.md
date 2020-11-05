@@ -1,7 +1,6 @@
-<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
-<h1 align="center">Bit Manipulation Algorithmn Solutions :pencil:</h1>
+ <h1 align="center">Bit Manipulation Algorithmn Solutions :pencil:</h1>
 <h2 align="center">Table of Algorithms</h2>
-<table class="sortable" style="width:100%">
+<table  style="width:100%">
   <tr>
     <th><p align="center">Problem</p></th>
     <th><p align="center">Solution</p></th>
