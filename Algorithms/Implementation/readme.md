@@ -73,4 +73,41 @@
          <td>Easy</td>
          <td>Nov 4, 2020</td>
        </tr>
+  <tr>
+  <td><a align="center" href="https://www.hackerrank.com/challenges/cats-and-a-mouse/">Cats And A Mouse</a></td>
+  <td><a align="center" href="Cats%20And%20A%20Mouse/CatsAndAMouse.swift">CatsAndAMouse.swift</a></td>
+  <td>Easy</td>
+  <td>Nov 5, 2020</td>
+</tr>
+<tr>
+  <td><a align="center" href="https://www.hackerrank.com/challenges/electronics-shop">Electronics Shop</a></td>
+  <td><a align="center" href="Electronics%20Shop/ElectronicsShop.swift">ElectronicsShop.swift</a></td>
+  <td>Easy</td>
+  <td>Nov 5, 2020</td>
+</tr>
+<tr>
+  <td><a align="center" href="https://www.hackerrank.com/challenges/counting-valleys/">Counting Valleys</a></td>
+  <td><a align="center" href="Counting%20Valleys/CountingValleys.swift">CountingValleys.swift</a></td>
+  <td>Easy</td>
+  <td>Nov 5, 2020</td>
+</tr>
+<tr>
+  <td><a align="center" href="https://www.hackerrank.com/challenges/drawing-book/">Drawing Book</a></td>
+  <td><a align="center" href="Drawing%20Book/DrawingBook.swift">DrawingBook.swift</a></td>
+  <td>Easy</td>
+  <td>Nov 5, 2020</td>
+</tr>
+<tr>
+  <td><a align="center" href="https://www.hackerrank.com/challenges/sock-merchant/">Sales By Match</a></td>
+  <td><a align="center" href="Sales%20By%20Match/SalesByMatch.swift">SalesByMatch.swift</a></td>
+  <td>Easy</td>
+  <td>Nov 5, 2020</td>
+</tr>
+  <tr>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/bon-appetit/
+">Bill Division</a></td>
+    <td><a align="center" href="Bill%20Division/BillDivision.swift">BillDivision.swift</a></td>
+    <td>Easy</td>
+    <td>Nov 5, 2020</td>
+  </tr>
 </table>
