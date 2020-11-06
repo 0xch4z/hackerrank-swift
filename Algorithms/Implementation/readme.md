@@ -109,5 +109,54 @@
     <td><a align="center" href="Bill%20Division/BillDivision.swift">BillDivision.swift</a></td>
     <td>Easy</td>
     <td>Nov 5, 2020</td>
-  </tr>
+  </tr><tr>
+  <td><a align="center" href="https://www.hackerrank.com/challenges/picking-numbers/">Picking Numbers</a></td>
+  <td><a align="center" href="Picking%20Numbers/PickingNumbers.swift">PickingNumbers.swift</a></td>
+  <td>Easy</td>
+  <td>Nov 6, 2020</td>
+</tr>
+
+<tr>
+  <td><a align="center" href="https://www.hackerrank.com/challenges/climbing-the-leaderboard/">Climbing the Leaderboard</a></td>
+  <td><a align="center" href="Climbing%20the%20Leaderboard/ClimbingtheLeaderboard.swift">ClimbingtheLeaderboard.swift</a></td>
+  <td>Easy</td>
+  <td>Nov 6, 2020</td>
+</tr>
+<tr>
+  <td><a align="center" href="https://www.hackerrank.com/challenges/the-hurdle-race">The Hurdle Race</a></td>
+  <td><a align="center" href="The%20Hurdle%20Race/TheHurdleRace.swift">TheHurdleRace.swift</a></td>
+  <td>Easy</td>
+  <td>Nov 6, 2020</td>
+</tr>
+<tr>
+  <td><a align="center" href="https://www.hackerrank.com/challenges/designer-pdf-viewer/">Designer PDF Viewer</a></td>
+  <td><a align="center" href="Designer%20PDF%20Viewer/DesignerViewer.swift">DesignerViewer.swift</a></td>
+  <td>Easy</td>
+  <td>Nov 6, 2020</td>
+</tr>
+
+<tr>
+  <td><a align="center" href="https://www.hackerrank.com/challenges/utopian-tree/">UtopianTree</a></td>
+  <td><a align="center" href="Utopian%20Tree/UtopianTree.swift">UtopianTree.swift</a></td>
+  <td>Easy</td>
+  <td>Nov 6, 2020</td>
+</tr>
+<tr>
+  <td><a align="center" href="https://www.hackerrank.com/challenges/angry-professor/">Angry Professor</a></td>
+  <td><a align="center" href="Angry%20Professor/AngryProfessor.swift">AngryProfessor.swift</a></td>
+  <td>Easy</td>
+  <td>Nov 4, 2020</td>
+</tr>
+<tr>
+  <td><a align="center" href="https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/">Beautiful Days at the Movies</a></td>
+  <td><a align="center" href="Beautiful%20Days%20at%20the%20Movies/BeautifulMovies.swift">BeautifulMovies.swift</a></td>
+  <td>Easy</td>
+  <td>Nov 6, 2020</td>
+</tr>
+<tr>
+  <td><a align="center" href="https://www.hackerrank.com/challenges/magic-square-forming/">Forming A Magic Square</a></td>
+  <td><a align="center" href="Forming%20A%20Magic%20Square/FormingAMagicSquare.swift">FormingAMagicSquare.swift</a></td>
+  <td>Medium</td>
+  <td>Nov 6, 2020</td>
+</tr>
 </table>
