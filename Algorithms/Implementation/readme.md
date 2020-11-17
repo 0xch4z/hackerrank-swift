@@ -160,7 +160,7 @@
   <td>Nov 6, 2020</td>
 </tr>
 <tr>
-  <td><a align="center" href=" https://www.hackerrank.com/challenges/flatland-space-stations">Flatland Space Stations</a></td>
+  <td><a align="center" href="https://www.hackerrank.com/challenges/flatland-space-stations">Flatland Space Stations</a></td>
   <td><a align="center" href="Flatland%20Space%20Stations/FlatlandSpaceStations.swift">FlatlandSpaceStations.swift</a></td>
   <td>Easy</td>
   <td>Nov 11, 2020</td>
