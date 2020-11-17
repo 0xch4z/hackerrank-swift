@@ -58,7 +58,7 @@
     <td>June 1, 2017</td>
   </tr>
    <tr>
-    <td><a align="center" href="https://www.hackerrank.com/challenges/sherlock-and-the-valid-string">Super Reduced String</a></td>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/reduced-string/">Super Reduced String</a></td>
     <td><a align="center" href="Super%20Reduced%20String/SuperReducedString.swift">SuperReducedString.swift</a></td>
     <td><a align="center" href="">Readme.md</a></td>
     <td>Medium</td>
