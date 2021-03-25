@@ -10,43 +10,43 @@
   <tr>
     <td><a align="center" href="/Algorithms/Warm%20Up">Warm Up</a> (10/10)</td>
     <td><a align="center" href="/Data%20Structures/Arrays">Arrays</a> (1/6)</td>
-    <td>Fundamentals (0/31)</td>
+    <td><a align="center" href="/Mathematics/Fundamentals">Fundamentals </a>(2/31) </td>
     <td>Introduction (0/6)</td>
   </tr>
   <tr>
-    <td><a align="center" href="/Algorithms/Implementation">Implementation</a> (5/64)</td>
+    <td><a align="center" href="/Algorithms/Implementation/readme.md">Implementation</a> (7/65)</td>
     <td>Linked Lists (0/45)</td>
-    <td>Number Theory (0/73)</td>
+    <td><a align="center" href="/Mathematics/Number%20Theory">Number Theory</a>(1/73)</td>
     <td>Character Classes (0/3)</td>
   </tr>
   <tr>
     <td><a align="center" href="/Algorithms/Strings">Strings</a> (7/45)</td>
     <td>Trees (0/17)</td>
-    <td>Combinatorics (0/54)</td>
+    <td><a align="center" href="/Mathematics/Combinatronics">Combinatorics </a>(1/54)</td>
     <td>Repititions (0/5)</td>
   </tr>
   <tr>
     <td>Sorting (0/19)</td>
     <td>Balanced Trees (0/3)</td>
-    <td>Algebra (0/37)</td>
+    <td><a align="center" href="/Mathematics/Algebra">Algebra</a> (1/37)</td>
     <td>Grouping and Capturing (0/3)</td>
   </tr>
   <tr>
-    <td>Search (0/25)</td>
+    <td><a align="center" href="/Algorithms/Search">Search </a>(1/25)</td>
     <td><a align="center" href="/Data%20Structures/Stacks">Stacks</a> (1/9)</td>
-    <td>Geometry (0/30)</td>
+    <td><a align="center" href="/Mathematics/Geometry">Geometry</a>(1/30)</td>
     <td>Back References (0/4)</td>
   </tr>
   <tr>
     <td>Graph Theory (0/62)</td>
     <td>Queues (0/5)</td>
-    <td>Probability (0/28)</td>
+    <td><a align="center" href="/Mathematics/Probability">Probability </a>(1/28)</td>
     <td>Assertions (0/4)</td>
   </tr>
   <tr>
     <td>Greedy (0/23)</td>
     <td>Heap (0/4)</td>
-    <td>Linear Algebra (0/28)</td>
+    <td><a align="center" href="/Mathematics/Linear%20Algebra">Linear Algebra </a>(1/28)</td>
     <td>Applications (0/23)</td>
   </tr>
   <tr>
@@ -62,7 +62,7 @@
     <td></td>
   </tr>
   <tr>
-    <td><a align="center" href="/Algorithms/Bit%20Manipulation/">Bit Manipulation</a> (1/26)</td>
+    <td><a align="center" href="/Algorithms/Bit%20Manipulation/">Bit Manipulation</a> (4/26)</td>
     <td>Trie (0/2)</td>
     <td></td>
     <td></td>
@@ -88,3 +88,9 @@
 </table>
 <p align="center">*only populated subdomains are linked...*</p>
 <br>
+<h3> Some extra types of problems and their solutions:(click to go )</h3>
+
+|[10 Days of Statistics](/Ten%20Days%20Of%20Statistics)|  |
+|--|--|
+|  |  |
+
